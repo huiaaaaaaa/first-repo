@@ -1,0 +1,2 @@
+# fist-repo 
+learning git
